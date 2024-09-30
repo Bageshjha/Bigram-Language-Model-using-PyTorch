@@ -12,3 +12,13 @@ Model training using AdamW optimizer.
 Ability to generate new text based on a context sequence.
 
 Evaluation of train and validation loss during training.
+
+Dependencies - :
+
+This project requires Python and the following libraries:
+
+torch: PyTorch library for deep learning.
+
+torch.nn: Neural network components from PyTorch.
+
+torch.optim: Optimization functions for training the model.
